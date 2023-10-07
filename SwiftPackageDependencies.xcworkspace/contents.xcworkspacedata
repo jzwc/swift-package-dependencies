@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SPDevel/SPDevel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PublishedFramework/PublishedFramework.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PackageA">
+   </FileRef>
+   <FileRef
+      location = "group:PackageB">
+   </FileRef>
+   <FileRef
+      location = "group:InternalUtils">
+   </FileRef>
+</Workspace>
