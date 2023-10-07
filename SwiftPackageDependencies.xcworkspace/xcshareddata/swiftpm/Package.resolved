@@ -8,15 +8,6 @@
         "branch" : "main",
         "revision" : "d75c156a2e93d6a844540c1dcacd8053ddc5272b"
       }
-    },
-    {
-      "identity" : "published-product",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/jzwc/published-product",
-      "state" : {
-        "branch" : "main",
-        "revision" : "53013d68a2babc473d0d31cd5c76dfd75bbb6a84"
-      }
     }
   ],
   "version" : 2
