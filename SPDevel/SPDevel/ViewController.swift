@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        label.text = "\(Framework.code)\n\(ExternalLibrary.code)"
+        label.text = "\(Framework.code)\n\n\(ExternalLibrary.code)"
     }
 
 
